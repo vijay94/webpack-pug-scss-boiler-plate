@@ -1,3 +1,9 @@
 h2 {
 	color: #ff0000;
+
+	&:hover{
+		color: #eaeaea;
+		cursor: pointer;
+		text-align: center;	
+	}
 }
